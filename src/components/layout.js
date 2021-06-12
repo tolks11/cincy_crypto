@@ -25,7 +25,13 @@ export default ({ children }) => {
       </header>
       {children}
       <footer className="site-footer">
-        <p>&copy; {new Date().getFullYear()} Delog &bull; Crafted with <span role="img" aria-label="love">❤️</span> by <a href="https://w3layouts.com">W3Layouts</a></p>
+      <div className="site-widgets">
+          <a href="https://twitter.com/tolks1189" target="_blank" rel="noopener noreferrer"><img src="/assets/twitter.png" alt="twitter link" /></a>
+          <a href="https://github.com/tolks11" target="_blank" rel="noopener noreferrer"><img  src="/assets/github.png" alt="github link" /></a>
+          <img src="/assets/gmail.png" alt="gmail link" />
+          <img src="/assets/dandr.png" alt="dandr link" />
+      </div>
+        <p>&copy; {new Date().getFullYear()} Cincy Crypto</p>
       </footer>
     </div>
   )

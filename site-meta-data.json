@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "title": "Cincy Crypto",
+  "siteUrl": "https://cincycrypto.co",
+  "description": "A place for crypto research and people to follow for crypto updates",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "Currated crypto research",
+    "description": "This site was built because the lack of reasearch that is propagated when searching for anything regarding crypto in the greater Cincinnati region.  Plaese get in touch if you have suggestions to add or any and all questions.  If you would liked to stay informed of all things crypto, sing up below!"
   }
 }
