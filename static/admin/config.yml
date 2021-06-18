@@ -1,10 +1,12 @@
 backend:
   name: github
   # change repo to your git repository url
-  repo: W3Layouts/gatsby-starter-delog
+  repo: tolks11/cincy_crypto
+  branch: main
 
 media_folder: static/assets
 public_folder: /assets
+branch: main
 
 collections:
   - name: settings
