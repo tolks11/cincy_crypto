@@ -6,5 +6,6 @@ title: DeFi Resources
 metaDescription: >-
   compilation of research, articles, and people to follow who are deeply
   thinking about and critically commenting on the DeFi ecosystem
+thumbnail: /assets/DEFI.jpeg
 ---
 compilation of research, articles, and people to follow who are deeply thinking about and critically commenting on the DeFi ecosystem
