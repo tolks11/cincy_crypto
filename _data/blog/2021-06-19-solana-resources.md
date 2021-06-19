@@ -6,5 +6,6 @@ title: Solana Resources
 metaDescription: >-
   compilation of research, articles, and people to follow who are deeply
   thinking about and critically commenting on the SOL ecosystem
+thumbnail: /assets/SOLANA.png
 ---
 compilation of research, articles, and people to follow who are deeply thinking about and critically commenting on the SOL ecosystem
